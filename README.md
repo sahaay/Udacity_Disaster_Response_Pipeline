@@ -24,6 +24,17 @@ python train_classifier.py ../data/DisasterResponse.db classifier.pkl
 
 python run.py
 
+### Screenshots from the app
+
+Screenshot 1
+
+![Screenshot 1](https://user-images.githubusercontent.com/36114952/99365486-45c72900-28af-11eb-8677-04823816f4a3.png)
+
+Screenshot 2
+
+![Screenshot 2](https://user-images.githubusercontent.com/36114952/99365721-93439600-28af-11eb-860d-6e72fffbf307.png)
+
+
 ### Acknowledgements
 
 Data provided by [Figure Eight](www.figure-eight.com) and this project is done as part of Data Science Nanodegree by [Udacity](www.udacity.com).
